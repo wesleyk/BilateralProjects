@@ -28,4 +28,6 @@ Furthermore, the algorithm requires BFS and DFS.
 5) Because the vertices are represented by IDs (ints), we can use arrays versus hash tables in the matching,
 with the employee ID working as the index into the array.
 
-[Enjoy!]
+Enjoy!
+
+- Wesley
